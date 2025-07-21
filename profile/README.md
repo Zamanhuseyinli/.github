@@ -8,12 +8,12 @@ From the beginning, I’ve believed that **standards create dependency**, and tr
 ## 🏛️ Foundations
 
 - **Azencompiler Open Source Foundation** (Founded at age 15)  
-  A visionary initiative to foster open, system-independent software. Unfortunately, it was discontinued due to financial constraints.
+  A visionary initiative to foster open, system-independent software. Unfortunately, it was discontinued due to financial constraints.  
+  🕰️ Archived website: [web.archive.org › azencompileropensourcefoundation.com](https://web.archive.org/web/20241115130943/https://azencompileropensourcefoundation.com/)
 
 - **Azccriminal** (Resurrected at age 16)  
-  More than just a rebirth — **Azccriminal** is an evolved ecosystem that not only isolates software but empowers it to operate completely independently from any system. It also includes software that works in perfect harmony with existing environments.
-
-> 🔗 Learn more: [azccriminal.space](https://azccriminal.space)
+  More than just a rebirth — **Azccriminal** is an evolved ecosystem that not only isolates software but empowers it to operate completely independently from any system. It also includes software that works in perfect harmony with existing environments.  
+  🔗 Learn more: [azccriminal.space](https://azccriminal.space)
 
 ## ⚙️ Skills
 
